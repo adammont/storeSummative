@@ -72,7 +72,7 @@ namespace storeSummative
                "\nTax:      " + taxTotal +
                "\nTotal:      " + total +
                "\nTendered      " + numberTendered +
-               "\nChange      " + change, drawFont, drawBrush, 350, 150);  
+               "\nChange      " + change, drawFont, drawBrush, 350, 150);   
         }
     }
 }
